@@ -1,2 +1,2 @@
-# TMS-project-Travel-Book-
+# TMS-project-Travel-Book
 Social network for travelers (prototype)
